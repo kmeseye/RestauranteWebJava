@@ -1,0 +1,20 @@
+[{
+    "tipo": "primero",
+    "nombre": "Bacalao a la gallega",
+    "id": 1,
+    "precio": 10.2
+},
+{
+    "tipo": "primero",
+    "nombre": "Sopa",
+    "id": 2,
+    "precio": 4.2
+},
+{
+    "tipo": "primero",
+    "nombre": "ensalada",
+    "id": 3,
+    "precio": 4.2
+}
+
+]
